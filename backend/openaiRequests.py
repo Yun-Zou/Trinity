@@ -3,9 +3,9 @@ import os
 import openai
 import json
 openai.api_type = "azure"
-openai.api_base = "https://openai-cne-dev-app-bootcamp-client698.openai.azure.com"
+openai.api_base = "xxx"
 openai.api_version = "2023-05-15"
-openai.api_key = "da4dae299adf4423b9b646f48006eb69"
+openai.api_key = "xxx"
 
 
 def getGenericResponse(chatHistory):
