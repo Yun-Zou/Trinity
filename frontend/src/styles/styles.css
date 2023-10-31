@@ -1,0 +1,73 @@
+.mobile-background {
+    background-image: url(../assets/images/mobile-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+    width: 414px;
+    height: 896px;
+}
+
+.scrollview {
+    overflow-y: scroll;
+    height: 500px
+}
+
+.text-options {
+    font-size: 1.2em;
+    font-weight: 400 !important;
+    /* font-family:'Arial Black, sans-serif'; */
+    /* word-break: break-all */
+}
+
+.text-last {
+    font-weight: 500 !important
+}
+
+.text-light {
+    color:antiquewhite
+}
+
+.seperation {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.ai-options {
+    height: 100%;
+    font-weight: 500 !important;
+    font-size: 1em !important;
+    border-radius: 10px !important;
+    border: black 1px solid !important;
+    background-color: rgba(73, 73, 73, 0.5) !important
+    /* background: rgb(255, 255, 255); */
+    /* background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(215, 215, 215, 1) 28%, rgba(193, 223, 255, 1) 100%); */
+}
+
+.bottom-of-page {
+    position: absolute;
+    bottom: 20px;
+    width: 100%
+}
+
+.alert-primary {
+    background-color: rgba(204, 229, 255, 0.9) !important
+}
+
+.alert-light {
+    background-color: rgba(254, 254, 254, 0.9) !important
+}
+
+.microphone-button {
+    border: 2px white dashed !important;
+}
+
+.microphone {
+    width: 32px;
+    height: 32px;
+}
+
+
+h1 {
+    color: aliceblue
+}
